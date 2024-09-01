@@ -115,11 +115,11 @@ logo1 = """
                                                   
 
 ╔══──────────────────────────╗─══╗
-║ OWNER 💓💓💓MUHAMMAD HAMID            ║║
-║  GITHUB 💝💝💝 HAMID-WAZIR1(RK)   ║ ║
-║ FACEBOOK 💝💝💝MUHAMMAD-HAMID ║ ║
-║  ENJOY 💝💝💝Pak Cloning                ║ ║
-║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
+║ OWNER ❤️❤️❤️MUHAMMAD HAMID           ║ ║
+║ GITHUB 👽👽👽 HAMID-WAZIR1(RK)       ║ ║
+║ FACEBOOK 👉👉👉MUHAMMAD-HAMID        ║ ║
+║ ENJOY 💯💯💯Pak Cloning              ║ ║
+║ Note 💤💤💤Use Fastest Speed NeT.    ║ ║
 ╚══──────────────────────────╝─══╝
 
 """
@@ -146,19 +146,19 @@ logo2 = """
                                                             
                                                    
                          DON'T COPY MY SCRIPT
-                                      RED-MAFIA          
-                                        TNX(RK)
+                                      MUHAMMAD-HAMID         
+                                        TNX(M-H)
 ╔══──────────────────────────╗─══╗
-║ OWNER 💓💓💓MUHAMMAD HAMID            ║║
-║  GITHUB 💝💝💝 HAMID-WAZIR1(RK)   ║ ║
-║ FACEBOOK 💝💝💝MUHAMMAD-HAMID ║ ║
-║  ENJOY 💝💝💝Pak Cloning                ║ ║
-║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
+║ OWNER ❤️❤️❤️MUHAMMAD HAMID           ║ ║
+║ GITHUB 👽👽👽 HAMID-WAZIR1(RK)       ║ ║
+║ FACEBOOK 👉👉👉MUHAMMAD-HAMID        ║ ║
+║ ENJOY 💯💯💯Pak Cloning              ║ ║
+║ Note 💤💤💤Use Fastest Speed NeT.    ║ ║
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: RED-MAFIA(R.K)
-Facebook: RIAZ-HACKER
+Owner: MUHAMMAD-HAMID(M.H)
+Facebook: MUHAMMAD-HAMID
 
 """)
 CorrectUsername = "HAMID"
